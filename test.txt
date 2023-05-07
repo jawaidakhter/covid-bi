@@ -1,1 +1,7 @@
 Covid Pandas Data Exploration
+
+1. Co-reltion 
+2. hypothisis
+3. merge columns - dymantion reduction - if less outlier
+4. 
+ 
